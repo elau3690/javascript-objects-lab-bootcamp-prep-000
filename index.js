@@ -1,0 +1,1 @@
+function Objects destructivelyDeleteFromObjectByKey(object, key)
